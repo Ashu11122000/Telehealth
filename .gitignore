@@ -46,7 +46,7 @@ htmlcov/
 # Environment Variables
 .env
 .env.*
-!.env.example
+.env.example
 
 # Database
 *.db
