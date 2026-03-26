@@ -33,6 +33,7 @@ wheels/
 .coverage
 coverage.xml
 htmlcov/
+.early.coverage
 
 # Type Checking
 .mypy_cache/
