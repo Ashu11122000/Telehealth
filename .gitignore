@@ -85,3 +85,4 @@ Thumbs.db
 # Temporary Files
 tmp/
 temp/
+.early.coverage
